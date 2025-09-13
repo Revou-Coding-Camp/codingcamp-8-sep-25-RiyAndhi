@@ -72,7 +72,7 @@ body{
   height:360px; border-radius:22px;
   background-image:
     linear-gradient(135deg, rgba(59,130,246,.25), rgba(34,211,238,.2)),
-    url('https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=1400&auto=format&fit=crop');
+    url('https://ifcjakarta.co.id/blog/uploads/berita/20230908102539_bg_virtual_office_ifc.jpg');
   background-size:cover; background-position:center;
   box-shadow:0 20px 60px rgba(2,10,30,.5), inset 0 0 0 1px rgba(255,255,255,.06);
 }
@@ -80,6 +80,7 @@ body{
 /* ==== Sections ==== */
 .section{ padding:64px 0; }
 .section.alt{ background:linear-gradient(180deg, rgba(255,255,255,.03), transparent); }
+.section.alt{ padding:20px 0; }
 
 h2{ font-size: clamp(22px, 2.6vw, 32px); margin: 0 0 14px; }
 h3{ margin:.2rem 0 .6rem; }
